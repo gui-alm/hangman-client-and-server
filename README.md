@@ -1,0 +1,1 @@
+a organização dos ficheiros é igual so que as sessões ativas ficam na mesma diretoria que o server em vez de dentro de GAMES.
